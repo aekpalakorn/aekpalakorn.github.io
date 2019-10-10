@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authority | Palakorn Achananuparp</title>
+    <link>https://aekpalakorn.github.io/tags/authority/</link>
+      <atom:link href="https://aekpalakorn.github.io/tags/authority/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authority</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aekpalakorn.github.io/img/icon-192.png</url>
+      <title>Authority</title>
+      <link>https://aekpalakorn.github.io/tags/authority/</link>
+    </image>
+    
+    <item>
+      <title>Using Online Controlled Experiments to Examine Authority Effects on User Behavior in Email Campaigns</title>
+      <link>https://aekpalakorn.github.io/publication/lim-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://aekpalakorn.github.io/publication/lim-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

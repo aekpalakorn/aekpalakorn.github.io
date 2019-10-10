@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philips Kokoh Prasetyo | Palakorn Achananuparp</title>
+    <link>https://aekpalakorn.github.io/authors/philips-kokoh-prasetyo/</link>
+      <atom:link href="https://aekpalakorn.github.io/authors/philips-kokoh-prasetyo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Philips Kokoh Prasetyo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aekpalakorn.github.io/img/icon-192.png</url>
+      <title>Philips Kokoh Prasetyo</title>
+      <link>https://aekpalakorn.github.io/authors/philips-kokoh-prasetyo/</link>
+    </image>
+    
+    <item>
+      <title>On Analyzing Geotagged Tweets for Location-Based Patterns</title>
+      <link>https://aekpalakorn.github.io/publication/prasetyo-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://aekpalakorn.github.io/publication/prasetyo-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Classification of Software Related Microblogs</title>
+      <link>https://aekpalakorn.github.io/publication/prasetyo-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://aekpalakorn.github.io/publication/prasetyo-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

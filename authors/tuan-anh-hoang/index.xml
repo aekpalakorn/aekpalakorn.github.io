@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tuan-Anh Hoang | Palakorn Achananuparp</title>
+    <link>https://aekpalakorn.github.io/authors/tuan-anh-hoang/</link>
+      <atom:link href="https://aekpalakorn.github.io/authors/tuan-anh-hoang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tuan-Anh Hoang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aekpalakorn.github.io/img/icon-192.png</url>
+      <title>Tuan-Anh Hoang</title>
+      <link>https://aekpalakorn.github.io/authors/tuan-anh-hoang/</link>
+    </image>
+    
+    <item>
+      <title>Who is Retweeting the Tweeters? Modeling Originating and Promoting Behaviors in the Twitter Network</title>
+      <link>https://aekpalakorn.github.io/publication/achananuparp-2012-a/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://aekpalakorn.github.io/publication/achananuparp-2012-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling socialness in dynamic social networks</title>
+      <link>https://aekpalakorn.github.io/publication/hoang-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://aekpalakorn.github.io/publication/hoang-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Modeling Virality of Twitter Content</title>
+      <link>https://aekpalakorn.github.io/publication/hoang-2011-a/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://aekpalakorn.github.io/publication/hoang-2011-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

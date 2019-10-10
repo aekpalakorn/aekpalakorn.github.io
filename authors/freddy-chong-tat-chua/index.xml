@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Freddy Chong Tat Chua | Palakorn Achananuparp</title>
+    <link>https://aekpalakorn.github.io/authors/freddy-chong-tat-chua/</link>
+      <atom:link href="https://aekpalakorn.github.io/authors/freddy-chong-tat-chua/index.xml" rel="self" type="application/rss+xml" />
+    <description>Freddy Chong Tat Chua</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aekpalakorn.github.io/img/icon-192.png</url>
+      <title>Freddy Chong Tat Chua</title>
+      <link>https://aekpalakorn.github.io/authors/freddy-chong-tat-chua/</link>
+    </image>
+    
+    <item>
+      <title>In-game Action List Segmentation and Labeling in Real-Time Strategy Games</title>
+      <link>https://aekpalakorn.github.io/publication/gong-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://aekpalakorn.github.io/publication/gong-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

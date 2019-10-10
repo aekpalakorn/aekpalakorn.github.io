@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Non-factoid question answering | Palakorn Achananuparp</title>
+    <link>https://aekpalakorn.github.io/tags/non-factoid-question-answering/</link>
+      <atom:link href="https://aekpalakorn.github.io/tags/non-factoid-question-answering/index.xml" rel="self" type="application/rss+xml" />
+    <description>Non-factoid question answering</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aekpalakorn.github.io/img/icon-192.png</url>
+      <title>Non-factoid question answering</title>
+      <link>https://aekpalakorn.github.io/tags/non-factoid-question-answering/</link>
+    </image>
+    
+    <item>
+      <title>Using Negative Voting to Diversify Answers in Non-factoid Question Answering</title>
+      <link>https://aekpalakorn.github.io/publication/achananuparp-2009-a/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://aekpalakorn.github.io/publication/achananuparp-2009-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

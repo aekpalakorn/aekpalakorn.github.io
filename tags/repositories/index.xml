@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Repositories | Palakorn Achananuparp</title>
+    <link>https://aekpalakorn.github.io/tags/repositories/</link>
+      <atom:link href="https://aekpalakorn.github.io/tags/repositories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Repositories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aekpalakorn.github.io/img/icon-192.png</url>
+      <title>Repositories</title>
+      <link>https://aekpalakorn.github.io/tags/repositories/</link>
+    </image>
+    
+    <item>
+      <title>Supporting student collaboration for image indexing</title>
+      <link>https://aekpalakorn.github.io/publication/achananuparp-2007-a/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://aekpalakorn.github.io/publication/achananuparp-2007-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A tool for teaching principles of image metadata generation</title>
+      <link>https://aekpalakorn.github.io/publication/achananuparp-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://aekpalakorn.github.io/publication/achananuparp-2006/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

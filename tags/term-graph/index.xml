@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Term graph | Palakorn Achananuparp</title>
+    <link>https://aekpalakorn.github.io/tags/term-graph/</link>
+      <atom:link href="https://aekpalakorn.github.io/tags/term-graph/index.xml" rel="self" type="application/rss+xml" />
+    <description>Term graph</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aekpalakorn.github.io/img/icon-192.png</url>
+      <title>Term graph</title>
+      <link>https://aekpalakorn.github.io/tags/term-graph/</link>
+    </image>
+    
+    <item>
+      <title>Utilization of Global Ranking Information in Graph-based Biomedical Literature Clustering</title>
+      <link>https://aekpalakorn.github.io/publication/zhang-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://aekpalakorn.github.io/publication/zhang-2007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
