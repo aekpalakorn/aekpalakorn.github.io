@@ -5,12 +5,28 @@
     <link>https://aekpalakorn.github.io/</link>
       <atom:link href="https://aekpalakorn.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Palakorn Achananuparp</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 02 Sep 2019 18:15:51 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 20 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aekpalakorn.github.io/img/icon-192.png</url>
       <title>Palakorn Achananuparp</title>
       <link>https://aekpalakorn.github.io/</link>
     </image>
+    
+    <item>
+      <title>Characterizing and Predicting Repeat Food Consumption Behavior for Just-in-Time Interventions</title>
+      <link>https://aekpalakorn.github.io/publication/liu-2019-characterizing/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://aekpalakorn.github.io/publication/liu-2019-characterizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating Glycemic Impact of Cooking Recipes via Online Crowdsourcing and Machine Learning</title>
+      <link>https://aekpalakorn.github.io/publication/lee-2019-estimating/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://aekpalakorn.github.io/publication/lee-2019-estimating/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Publications Round-Up for 2019</title>
@@ -27,25 +43,9 @@
     </item>
     
     <item>
-      <title>Characterizing and Predicting Repeat Food Consumption Behavior for Just-in-Time Interventions</title>
-      <link>https://aekpalakorn.github.io/publication/liu-2019-characterizing/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://aekpalakorn.github.io/publication/liu-2019-characterizing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Estimating Glycemic Impact of Cooking Recipes via Online Crowdsourcing and Machine Learning</title>
-      <link>https://aekpalakorn.github.io/publication/lee-2019-estimating/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://aekpalakorn.github.io/publication/lee-2019-estimating/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>FoodAI: Food Image Recognition via Deep Learning for Smart Food Logging</title>
       <link>https://aekpalakorn.github.io/publication/sahoo-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 04 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://aekpalakorn.github.io/publication/sahoo-2019/</guid>
       <description></description>
     </item>
