@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Xin Chen | Palakorn Achananuparp</title><link>https://aekpalakorn.github.io/authors/xin-chen/</link><atom:link href="https://aekpalakorn.github.io/authors/xin-chen/index.xml" rel="self" type="application/rss+xml"/><description>Xin Chen</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 02 Nov 2009 00:00:00 +0000</lastBuildDate><image><url>https://aekpalakorn.github.io/img/icon-192.png</url><title>Xin Chen</title><link>https://aekpalakorn.github.io/authors/xin-chen/</link></image><item><title>Probabilistic models for topic learning from images and captions in online biomedical literatures</title><link>https://aekpalakorn.github.io/publication/chen-2009/</link><pubDate>Mon, 02 Nov 2009 00:00:00 +0000</pubDate><guid>https://aekpalakorn.github.io/publication/chen-2009/</guid><description/></item><item><title>Using Negative Voting to Diversify Answers in Non-factoid Question Answering</title><link>https://aekpalakorn.github.io/publication/achananuparp-2009-a/</link><pubDate>Mon, 02 Nov 2009 00:00:00 +0000</pubDate><guid>https://aekpalakorn.github.io/publication/achananuparp-2009-a/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xin Chen | Palakorn Achananuparp</title>
+    <link>https://aekpalakorn.github.io/authors/xin-chen/</link>
+      <atom:link href="https://aekpalakorn.github.io/authors/xin-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xin Chen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 02 Nov 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aekpalakorn.github.io/img/icon-192.png</url>
+      <title>Xin Chen</title>
+      <link>https://aekpalakorn.github.io/authors/xin-chen/</link>
+    </image>
+    
+    <item>
+      <title>Probabilistic models for topic learning from images and captions in online biomedical literatures</title>
+      <link>https://aekpalakorn.github.io/publication/chen-2009/</link>
+      <pubDate>Mon, 02 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>https://aekpalakorn.github.io/publication/chen-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Negative Voting to Diversify Answers in Non-factoid Question Answering</title>
+      <link>https://aekpalakorn.github.io/publication/achananuparp-2009-a/</link>
+      <pubDate>Mon, 02 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>https://aekpalakorn.github.io/publication/achananuparp-2009-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

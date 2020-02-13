@@ -1,1 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Robert B. Allen | Palakorn Achananuparp</title><link>https://aekpalakorn.github.io/authors/robert-b.-allen/</link><atom:link href="https://aekpalakorn.github.io/authors/robert-b.-allen/index.xml" rel="self" type="application/rss+xml"/><description>Robert B. Allen</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 10 Dec 2007 00:00:00 +0000</lastBuildDate><image><url>https://aekpalakorn.github.io/img/icon-192.png</url><title>Robert B. Allen</title><link>https://aekpalakorn.github.io/authors/robert-b.-allen/</link></image><item><title>Supporting student collaboration for image indexing</title><link>https://aekpalakorn.github.io/publication/achananuparp-2007-a/</link><pubDate>Mon, 10 Dec 2007 00:00:00 +0000</pubDate><guid>https://aekpalakorn.github.io/publication/achananuparp-2007-a/</guid><description/></item><item><title>A framework for text processing and supporting access to collections of digitized historical newspapers</title><link>https://aekpalakorn.github.io/publication/allen-2007/</link><pubDate>Sun, 22 Jul 2007 00:00:00 +0000</pubDate><guid>https://aekpalakorn.github.io/publication/allen-2007/</guid><description/></item><item><title>A tool for teaching principles of image metadata generation</title><link>https://aekpalakorn.github.io/publication/achananuparp-2006/</link><pubDate>Sun, 11 Jun 2006 00:00:00 +0000</pubDate><guid>https://aekpalakorn.github.io/publication/achananuparp-2006/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robert B. Allen | Palakorn Achananuparp</title>
+    <link>https://aekpalakorn.github.io/authors/robert-b.-allen/</link>
+      <atom:link href="https://aekpalakorn.github.io/authors/robert-b.-allen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robert B. Allen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 10 Dec 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aekpalakorn.github.io/img/icon-192.png</url>
+      <title>Robert B. Allen</title>
+      <link>https://aekpalakorn.github.io/authors/robert-b.-allen/</link>
+    </image>
+    
+    <item>
+      <title>Supporting student collaboration for image indexing</title>
+      <link>https://aekpalakorn.github.io/publication/achananuparp-2007-a/</link>
+      <pubDate>Mon, 10 Dec 2007 00:00:00 +0000</pubDate>
+      <guid>https://aekpalakorn.github.io/publication/achananuparp-2007-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A framework for text processing and supporting access to collections of digitized historical newspapers</title>
+      <link>https://aekpalakorn.github.io/publication/allen-2007/</link>
+      <pubDate>Sun, 22 Jul 2007 00:00:00 +0000</pubDate>
+      <guid>https://aekpalakorn.github.io/publication/allen-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A tool for teaching principles of image metadata generation</title>
+      <link>https://aekpalakorn.github.io/publication/achananuparp-2006/</link>
+      <pubDate>Sun, 11 Jun 2006 00:00:00 +0000</pubDate>
+      <guid>https://aekpalakorn.github.io/publication/achananuparp-2006/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

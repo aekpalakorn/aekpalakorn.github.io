@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Factoid questions | Palakorn Achananuparp</title><link>https://aekpalakorn.github.io/tags/factoid-questions/</link><atom:link href="https://aekpalakorn.github.io/tags/factoid-questions/index.xml" rel="self" type="application/rss+xml"/><description>Factoid questions</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 02 Dec 2008 00:00:00 +0000</lastBuildDate><image><url>https://aekpalakorn.github.io/img/icon-192.png</url><title>Factoid questions</title><link>https://aekpalakorn.github.io/tags/factoid-questions/</link></image><item><title>Utilizing Semantic, Syntactic, and Question category Information for Automated Digital Reference Services</title><link>https://aekpalakorn.github.io/publication/achananuparp-2008-a/</link><pubDate>Tue, 02 Dec 2008 00:00:00 +0000</pubDate><guid>https://aekpalakorn.github.io/publication/achananuparp-2008-a/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Factoid questions | Palakorn Achananuparp</title>
+    <link>https://aekpalakorn.github.io/tags/factoid-questions/</link>
+      <atom:link href="https://aekpalakorn.github.io/tags/factoid-questions/index.xml" rel="self" type="application/rss+xml" />
+    <description>Factoid questions</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 02 Dec 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aekpalakorn.github.io/img/icon-192.png</url>
+      <title>Factoid questions</title>
+      <link>https://aekpalakorn.github.io/tags/factoid-questions/</link>
+    </image>
+    
+    <item>
+      <title>Utilizing Semantic, Syntactic, and Question category Information for Automated Digital Reference Services</title>
+      <link>https://aekpalakorn.github.io/publication/achananuparp-2008-a/</link>
+      <pubDate>Tue, 02 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>https://aekpalakorn.github.io/publication/achananuparp-2008-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

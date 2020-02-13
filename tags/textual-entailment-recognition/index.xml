@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Textual entailment recognition | Palakorn Achananuparp</title><link>https://aekpalakorn.github.io/tags/textual-entailment-recognition/</link><atom:link href="https://aekpalakorn.github.io/tags/textual-entailment-recognition/index.xml" rel="self" type="application/rss+xml"/><description>Textual entailment recognition</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Sep 2008 00:00:00 +0000</lastBuildDate><image><url>https://aekpalakorn.github.io/img/icon-192.png</url><title>Textual entailment recognition</title><link>https://aekpalakorn.github.io/tags/textual-entailment-recognition/</link></image><item><title>The Evaluation of Sentence Similarity Measures</title><link>https://aekpalakorn.github.io/publication/achananuparp-2008/</link><pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate><guid>https://aekpalakorn.github.io/publication/achananuparp-2008/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Textual entailment recognition | Palakorn Achananuparp</title>
+    <link>https://aekpalakorn.github.io/tags/textual-entailment-recognition/</link>
+      <atom:link href="https://aekpalakorn.github.io/tags/textual-entailment-recognition/index.xml" rel="self" type="application/rss+xml" />
+    <description>Textual entailment recognition</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Sep 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aekpalakorn.github.io/img/icon-192.png</url>
+      <title>Textual entailment recognition</title>
+      <link>https://aekpalakorn.github.io/tags/textual-entailment-recognition/</link>
+    </image>
+    
+    <item>
+      <title>The Evaluation of Sentence Similarity Measures</title>
+      <link>https://aekpalakorn.github.io/publication/achananuparp-2008/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>https://aekpalakorn.github.io/publication/achananuparp-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

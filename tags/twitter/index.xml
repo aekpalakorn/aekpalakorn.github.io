@@ -1,1 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Twitter | Palakorn Achananuparp</title><link>https://aekpalakorn.github.io/tags/twitter/</link><atom:link href="https://aekpalakorn.github.io/tags/twitter/index.xml" rel="self" type="application/rss+xml"/><description>Twitter</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 12 Nov 2012 00:00:00 +0000</lastBuildDate><image><url>https://aekpalakorn.github.io/img/icon-192.png</url><title>Twitter</title><link>https://aekpalakorn.github.io/tags/twitter/</link></image><item><title>Palanteer: A search engine for community generated microblogging data</title><link>https://aekpalakorn.github.io/publication/lim-2012/</link><pubDate>Mon, 12 Nov 2012 00:00:00 +0000</pubDate><guid>https://aekpalakorn.github.io/publication/lim-2012/</guid><description/></item><item><title>Observatory of Trends in Software Related Microblogs</title><link>https://aekpalakorn.github.io/publication/achananuparp-2012/</link><pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate><guid>https://aekpalakorn.github.io/publication/achananuparp-2012/</guid><description/></item><item><title>Follow Link Seeking Strategy: A Pattern Based Approach</title><link>https://aekpalakorn.github.io/publication/kwee-2012/</link><pubDate>Sun, 12 Aug 2012 00:00:00 +0000</pubDate><guid>https://aekpalakorn.github.io/publication/kwee-2012/</guid><description/></item><item><title>Influentials, novelty, and social contagion. The viral power of average friends, close communities, and old news</title><link>https://aekpalakorn.github.io/publication/harrigan-2012/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>https://aekpalakorn.github.io/publication/harrigan-2012/</guid><description/></item><item><title>Who is Retweeting the Tweeters? Modeling Originating and Promoting Behaviors in the Twitter Network</title><link>https://aekpalakorn.github.io/publication/achananuparp-2012-a/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>https://aekpalakorn.github.io/publication/achananuparp-2012-a/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Twitter | Palakorn Achananuparp</title>
+    <link>https://aekpalakorn.github.io/tags/twitter/</link>
+      <atom:link href="https://aekpalakorn.github.io/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
+    <description>Twitter</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 12 Nov 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aekpalakorn.github.io/img/icon-192.png</url>
+      <title>Twitter</title>
+      <link>https://aekpalakorn.github.io/tags/twitter/</link>
+    </image>
+    
+    <item>
+      <title>Palanteer: A search engine for community generated microblogging data</title>
+      <link>https://aekpalakorn.github.io/publication/lim-2012/</link>
+      <pubDate>Mon, 12 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://aekpalakorn.github.io/publication/lim-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Observatory of Trends in Software Related Microblogs</title>
+      <link>https://aekpalakorn.github.io/publication/achananuparp-2012/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>https://aekpalakorn.github.io/publication/achananuparp-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Follow Link Seeking Strategy: A Pattern Based Approach</title>
+      <link>https://aekpalakorn.github.io/publication/kwee-2012/</link>
+      <pubDate>Sun, 12 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>https://aekpalakorn.github.io/publication/kwee-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influentials, novelty, and social contagion. The viral power of average friends, close communities, and old news</title>
+      <link>https://aekpalakorn.github.io/publication/harrigan-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://aekpalakorn.github.io/publication/harrigan-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Who is Retweeting the Tweeters? Modeling Originating and Promoting Behaviors in the Twitter Network</title>
+      <link>https://aekpalakorn.github.io/publication/achananuparp-2012-a/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://aekpalakorn.github.io/publication/achananuparp-2012-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

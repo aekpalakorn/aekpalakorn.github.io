@@ -1,1 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>5 | Palakorn Achananuparp</title><link>https://aekpalakorn.github.io/publication_types/5/</link><atom:link href="https://aekpalakorn.github.io/publication_types/5/index.xml" rel="self" type="application/rss+xml"/><description>5</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate><image><url>https://aekpalakorn.github.io/img/icon-192.png</url><title>5</title><link>https://aekpalakorn.github.io/publication_types/5/</link></image><item><title>On Modeling Virality of Twitter Content</title><link>https://aekpalakorn.github.io/publication/hoang-2011-a/</link><pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate><guid>https://aekpalakorn.github.io/publication/hoang-2011-a/</guid><description/></item><item><title>Utilizing Semantic, Syntactic, and Question category Information for Automated Digital Reference Services</title><link>https://aekpalakorn.github.io/publication/achananuparp-2008-a/</link><pubDate>Tue, 02 Dec 2008 00:00:00 +0000</pubDate><guid>https://aekpalakorn.github.io/publication/achananuparp-2008-a/</guid><description/></item><item><title>Supporting student collaboration for image indexing</title><link>https://aekpalakorn.github.io/publication/achananuparp-2007-a/</link><pubDate>Mon, 10 Dec 2007 00:00:00 +0000</pubDate><guid>https://aekpalakorn.github.io/publication/achananuparp-2007-a/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>5 | Palakorn Achananuparp</title>
+    <link>https://aekpalakorn.github.io/publication_types/5/</link>
+      <atom:link href="https://aekpalakorn.github.io/publication_types/5/index.xml" rel="self" type="application/rss+xml" />
+    <description>5</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aekpalakorn.github.io/img/icon-192.png</url>
+      <title>5</title>
+      <link>https://aekpalakorn.github.io/publication_types/5/</link>
+    </image>
+    
+    <item>
+      <title>On Modeling Virality of Twitter Content</title>
+      <link>https://aekpalakorn.github.io/publication/hoang-2011-a/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://aekpalakorn.github.io/publication/hoang-2011-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilizing Semantic, Syntactic, and Question category Information for Automated Digital Reference Services</title>
+      <link>https://aekpalakorn.github.io/publication/achananuparp-2008-a/</link>
+      <pubDate>Tue, 02 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>https://aekpalakorn.github.io/publication/achananuparp-2008-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supporting student collaboration for image indexing</title>
+      <link>https://aekpalakorn.github.io/publication/achananuparp-2007-a/</link>
+      <pubDate>Mon, 10 Dec 2007 00:00:00 +0000</pubDate>
+      <guid>https://aekpalakorn.github.io/publication/achananuparp-2007-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

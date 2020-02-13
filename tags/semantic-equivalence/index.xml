@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Semantic equivalence | Palakorn Achananuparp</title><link>https://aekpalakorn.github.io/tags/semantic-equivalence/</link><atom:link href="https://aekpalakorn.github.io/tags/semantic-equivalence/index.xml" rel="self" type="application/rss+xml"/><description>Semantic equivalence</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 27 Apr 2009 00:00:00 +0000</lastBuildDate><image><url>https://aekpalakorn.github.io/img/icon-192.png</url><title>Semantic equivalence</title><link>https://aekpalakorn.github.io/tags/semantic-equivalence/</link></image><item><title>Addressing the variability of natural language Expression in sentence similarity with semantic structure of the sentences</title><link>https://aekpalakorn.github.io/publication/achananuparp-2009/</link><pubDate>Mon, 27 Apr 2009 00:00:00 +0000</pubDate><guid>https://aekpalakorn.github.io/publication/achananuparp-2009/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Semantic equivalence | Palakorn Achananuparp</title>
+    <link>https://aekpalakorn.github.io/tags/semantic-equivalence/</link>
+      <atom:link href="https://aekpalakorn.github.io/tags/semantic-equivalence/index.xml" rel="self" type="application/rss+xml" />
+    <description>Semantic equivalence</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 27 Apr 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aekpalakorn.github.io/img/icon-192.png</url>
+      <title>Semantic equivalence</title>
+      <link>https://aekpalakorn.github.io/tags/semantic-equivalence/</link>
+    </image>
+    
+    <item>
+      <title>Addressing the variability of natural language Expression in sentence similarity with semantic structure of the sentences</title>
+      <link>https://aekpalakorn.github.io/publication/achananuparp-2009/</link>
+      <pubDate>Mon, 27 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>https://aekpalakorn.github.io/publication/achananuparp-2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
